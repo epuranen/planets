@@ -3,3 +3,4 @@ The two moons may be a problem for Wolfman.
 But the Mummy will appreciate the lack of humidity.
 Will also consider Venus as a base.
 This line was added on GitHub.
+Emi added another line to mars.txt
